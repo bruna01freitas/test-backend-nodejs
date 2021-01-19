@@ -5,14 +5,14 @@ Por: Bruna dos Santos Freitas
 <strong>Detalhes</strong>
 Cada produto é composto pelos seguintes atributos:
 
--Título
--Categoria
--Descrição
--Preço
+-Título <br>
+-Categoria<br>
+-Descrição<br>
+-Preço<br>
 
 <strong> Iniciar o servidor </strong>
 
--npm install 
+-npm install <br>
 -nodemon app.js
  
 <strong> Acesso as rotas </strong>
