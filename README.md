@@ -1,4 +1,4 @@
-<h1>Documentação teste técnico Analista backend junior Anota Ai</h1>
+<h1>Documentação teste técnico Analista backend júnior Anota Ai</h1>
 
 Por: Bruna dos Santos Freitas
 
